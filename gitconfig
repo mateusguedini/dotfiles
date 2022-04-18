@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = guedinimateus@gmail.com
+	name = Mateus Guedini
